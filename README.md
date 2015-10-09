@@ -1,6 +1,6 @@
 # PointReort
 
- PointReport 是我 2009 开发的一个.NET 报表项目。  
+ PointReport 是我 2009 年开发的一个.NET 报表项目。  
  
  主要功能有：
  
